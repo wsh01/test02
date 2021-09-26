@@ -1,10 +1,5 @@
 
-
-<<<<<<< HEAD
 test branch
 make other change in testing 
-=======
 made other changes
 make some change in hotfix
-
->>>>>>> main
